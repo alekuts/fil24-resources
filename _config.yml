@@ -3,12 +3,6 @@ description: "Сторінка з різними ресурсами: розкл�
 url: ""
 github: ""
 
-colors:
-  primary: "#5565ff"  # Заміна основного кольору
-  secondary: "#333333"  # Заміна вторинного кольору
-  accent: "#f0f0f0"  # Заміна акцентного кольору
-
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
