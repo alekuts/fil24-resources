@@ -21,8 +21,8 @@
 </details>
 
   <ul>
-    <li><a href="subgroup1/home_assignment.md">Перша підгрупа</a></li>
-    <li><a href="subgroup2/home_assignment.md">Друга підгрупа</a></li>
+    <li><a href="subgroup1/">Перша підгрупа</a></li>
+    <li><a href="subgroup2/">Друга підгрупа</a></li>
   </ul>
 
 ---
