@@ -16,8 +16,15 @@
 
 <details style="margin-bottom: 1em;">
     <summary><strong>Спільне</strong></summary>
-    <strong>ОТМК</strong>
+    <strong>ОТМК</strong> <br>
+
+    Зробити розбір діалогу з англійської літератури (якщо ще не здано)
+
+    Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a>
+
     <strong>Література</strong>
+    Виконати завдання в телеграмі в группі з куратором
+
 </details>
 
   <ul>

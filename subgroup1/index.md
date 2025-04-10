@@ -1,14 +1,18 @@
+<h2>Перша підгрупа</h2>
+
+<strong>АЧРП</strong> <br>
+
+
 ---
-title: ABOUT PAGE
-filename: about.md
---- 
 
-# Перша підгрупа
-Текст
-## АЧРП
+<strong>Граматика</strong> <br>
 
-## Граматика
 
-## Німецька
+---
 
-## Фонетика
+<strong>Німецька</strong> <br>
+
+
+---
+
+<strong>Фонетика</strong> <br>
