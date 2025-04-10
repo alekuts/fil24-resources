@@ -22,7 +22,7 @@
 
     Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a>
 
-    <strong>Література</strong>
+    <strong>Література</strong> <br>
     Виконати завдання в телеграмі в группі з куратором
 
 </details>
