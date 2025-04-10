@@ -1,7 +1,5 @@
 title: ФІЛ24 Resources
 description: "Сторінка з різними ресурсами: розклад, домашнє завдання, посилання на курси.."
-url: ""
-github: ""
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
