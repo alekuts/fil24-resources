@@ -3,6 +3,9 @@ description: "Сторінка з різними ресурсами: розкл�
 url: ""
 github: ""
 
+markdown: kramdown
+css: "assets/css/style.css"
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
