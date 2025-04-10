@@ -20,7 +20,7 @@
 
     Зробити розбір діалогу з англійської літератури (якщо ще не здано)
 
-    Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a>
+    Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a> <br>
 
 ---
 
