@@ -1,11 +1,11 @@
 ## Розклад
 
-<details>
+<details style="margin-bottom: 1em;">
   <summary><strong>Перша підгрупа</strong></summary>
   <img src="subgroup1/1schedule.jpg" alt="Розклад першої підгрупи">
 </details>
 
-<details>
+<details style="margin-bottom: 1em;">
   <summary><strong>Друга підгрупа</strong></summary>
   <img src="subgroup2/2schedule.jpg" alt="Розклад другої підгрупи">
 </details>
@@ -14,18 +14,17 @@
 
 ## Домашнє завдання
 
-<details>
+<details style="margin-bottom: 1em;">
   <summary><strong>Спільне</strong></summary>
 
-  **ОТМК**  
-  **Література**
+  ОТМК 
+  Література
+</details>
 
   <ul>
     <li><a href="subgroup1/home_assignment.md">Перша підгрупа</a></li>
     <li><a href="subgroup2/home_assignment.md">Друга підгрупа</a></li>
   </ul>
-
-</details>
 
 ---
 
