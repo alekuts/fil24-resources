@@ -16,7 +16,7 @@
 
 <details style="margin-bottom: 1em;">
     <summary><strong>Спільне</strong></summary>
-    <strong>ОТМК</strong> <br> <br>
+    <br> <strong>ОТМК</strong> <br>
 
     Зробити розбір діалогу з англійської літератури (якщо ще не здано)
 
