@@ -1,43 +1,54 @@
 ## Розклад
 
 <details>
-    <summary> **Перша підгрупа** </summary>
-        ![](subgroup1/1schedule.jpg)
+  <summary><strong>Перша підгрупа</strong></summary>
+  <img src="subgroup1/1schedule.jpg" alt="Розклад першої підгрупи">
 </details>
 
 <details>
-    <summary> **Друга підгрупа** </summary>
-        ![](subgroup2/2schedule.jpg)
+  <summary><strong>Друга підгрупа</strong></summary>
+  <img src="subgroup2/2schedule.jpg" alt="Розклад другої підгрупи">
 </details>
 
+---
 
 ## Домашнє завдання
 
 <details>
-    <summary> **Спільне** </summary>
-        ### ОТМК
+  <summary><strong>Спільне</strong></summary>
 
-        ### Література
+  **ОТМК**  
+  **Література**
 
-<details>
+  <ul>
+    <li><a href="subgroup1/home_assignment.md">Перша підгрупа</a></li>
+    <li><a href="subgroup2/home_assignment.md">Друга підгрупа</a></li>
+  </ul>
 
-[Перша підгрупв](subgroup1/home_assignment.md) <br>
-[Друга підгрупа](subgroup2/home_assignment.md) <br> <br>
+</details>
 
-## Курси ну мудл
+---
 
-[АЧРП](http://krnu.org/course/view.php?id=1573) <br>
-[Граматика](http://krnu.org/course/view.php?id=885) <br>
-[Німецька](http://krnu.org/course/view.php?id=1788) <br>
-[Фонетика](http://krnu.org/course/view.php?id=44) <br>
-[ОТМК](http://krnu.org/course/view.php?id=796) <br>
-[Література](http://krnu.org/course/view.php?id=1571) <br> <br>
+## Курси на мудл
+
+<ul>
+  <li><a href="http://krnu.org/course/view.php?id=1573">АЧРП</a></li>
+  <li><a href="http://krnu.org/course/view.php?id=885">Граматика</a></li>
+  <li><a href="http://krnu.org/course/view.php?id=1788">Німецька</a></li>
+  <li><a href="http://krnu.org/course/view.php?id=44">Фонетика</a></li>
+  <li><a href="http://krnu.org/course/view.php?id=796">ОТМК</a></li>
+  <li><a href="http://krnu.org/course/view.php?id=1571">Література</a></li>
+</ul>
+
+---
 
 ## Посилання на Zoom
 
-[АЧРП](http://krnu.org/mod/url/view.php?id=29123) <br>
-[Граматика](http://krnu.org/mod/url/view.php?id=29200) <br>
-[Німецька](http://krnu.org/mod/url/view.php?id=29221) <br>
-[Фонетика](http://krnu.org/mod/url/view.php?id=45463) <br>
-[ОТМК](http://krnu.org/mod/url/view.php?id=29313) <br>
-[Література](http://krnu.org/mod/url/view.php?id=24220)
+<ul>
+  <li><a href="http://krnu.org/mod/url/view.php?id=29123">АЧРП</a></li>
+  <li><a href="http://krnu.org/mod/url/view.php?id=29200">Граматика</a></li>
+  <li><a href="http://krnu.org/mod/url/view.php?id=29221">Німецька</a></li>
+  <li><a href="http://krnu.org/mod/url/view.php?id=45463">Фонетика</a></li>
+  <li><a href="http://krnu.org/mod/url/view.php?id=29313">ОТМК</a></li>
+  <li><a href="http://krnu.org/mod/url/view.php?id=24220">Література</a></li>
+</ul>
