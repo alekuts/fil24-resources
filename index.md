@@ -2,7 +2,7 @@
 
 <details style="margin-bottom: 1em;">
     <summary><strong>Перша підгрупа</strong></summary>
-    <img src="subgroup1/1schedule.jpg" alt="Розклад першої підгрупи"
+    <img src="subgroup1/1schedule.jpg" alt="Розклад першої підгрупи">
 </details>
 
 <details style="margin-bottom: 1em;">
