@@ -3,8 +3,11 @@ layout: default
 title: "My Awesome Site"
 ---
 
-# Мій сайт
- Щось
+*Брррр
+*брррр
 
-Брррррр
-Точка.
+
+<!-- Custom footer -->
+<footer>
+  <p>Your custom footer content goes here.</p>
+</footer>
