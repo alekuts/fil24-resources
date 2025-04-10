@@ -1,6 +1,27 @@
-<footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Дно сайту</a></small></p>
-      </footer>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <!-- Ваші елементи заголовка -->
+  </header>
+
+  <main>
+    <!-- Вміст сторінки -->
+    {{ content }}
+  </main>
+
+  <footer>
+    {% if site.github.is_project_page %}
+      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    {% endif %}
+    <p><small>Дно сайту</a></small></p>
+  </footer>
+</body>
+</html>
+
