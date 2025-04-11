@@ -9,6 +9,7 @@
 
 <strong>Граматика</strong> <br>
 
+  <img src="2gr.jpg" alt="">
 
 ---
 
