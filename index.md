@@ -20,10 +20,11 @@
 
     Зробити розбір діалогу з англійської книги (якщо ще не здано) <br>
 
-    Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a> <br> <br>
+    Пройти курс на <a href="https://prometheus.org.ua/prometheus-free/resisting-media-manipulation/">прометеус</a> та надіслати сертифікат на пошту: tat.chrdileli@gmail.com <br> <br>
 
     <strong>Література</strong> <br>
-    Виконати завдання в телеграмі в группі з куратором
+    Виконати завдання в телеграмі в группі з куратором <br>
+    Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a>
 
 </details>
 
