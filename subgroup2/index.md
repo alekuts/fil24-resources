@@ -3,20 +3,20 @@
 <strong>АЧРП</strong> <br>
 
 Доробити це завдання
-    <img src="2achrp.jpg" alt="">
+ <img src="2achrp.jpg" alt="">
 
 ---
 
 <strong>Граматика</strong> <br>
 
-    <img src="2gr.jpg" alt="">
+ <img src="2gr.jpg" alt="">
 
 ---
 
 <strong>Німецька</strong> <br>
 
 Зачитати діалог
-    <img src="2n.jpg" alt="">
+ <img src="2n.jpg" alt="">
 
 ---
 
