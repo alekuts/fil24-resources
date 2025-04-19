@@ -35,7 +35,7 @@
 
 ---
 
-<h2>Курси на мудл</h2>
+<h2>Курси на Moodle</h2>
 
 <ul>
   <li><a href="http://krnu.org/course/view.php?id=1573">АЧРП</a></li>
