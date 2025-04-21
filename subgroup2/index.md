@@ -1,9 +1,8 @@
 <h2>Друга підгрупа</h2>
 
 <strong>АЧРП</strong> <br>
-
-Доробити це завдання
  <img src="2achrp.jpg" alt="">
+ <img src="2achrp2.jpg" alt="">
 
 ---
 
