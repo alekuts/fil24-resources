@@ -24,6 +24,7 @@
 
     <strong>Література</strong> <br>
     Виконати завдання в телеграмі в группі з куратором <br>
+    Виконати <a href="http://krnu.org/mod/quiz/view.php?id=21315">тест</a> <br>
     Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a>
 
 </details>
