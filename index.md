@@ -15,17 +15,13 @@
 <h2>Домашнє завдання</h2>
 
 <details style="margin-bottom: 1em;">
-    <summary><strong>Спільне</strong></summary>
-    <br> <strong>ОТМК</strong> <br>
+ <summary><strong>Спільне</strong></summary>
+ <br> <strong>ОТМК</strong> <br>
 
-    Зробити розбір діалогу з англійської книги (якщо ще не здано) <br>
+Пройти курс на <a href="https://prometheus.org.ua/prometheus-free/resisting-media-manipulation/">прометеус</a> та надіслати сертифікат на пошту: tat.chrdileli@gmail.com <br> <br>
 
-    Пройти курс на <a href="https://prometheus.org.ua/prometheus-free/resisting-media-manipulation/">прометеус</a> та надіслати сертифікат на пошту: tat.chrdileli@gmail.com <br> <br>
-
-    <strong>Література</strong> <br>
-    Виконати завдання в телеграмі в группі з куратором <br>
-    Виконати <a href="http://krnu.org/mod/quiz/view.php?id=21315">тест</a> <br>
-    Пройти курс на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a>
+ <strong>Література</strong> <br>
+Пройти один з курсі на <a href="http://krnu.org/mod/assign/view.php?id=21314">прометеус</a> та дати посилання на сертифікат
 
 </details>
 
