@@ -10,13 +10,14 @@
 
 <strong>Граматика</strong> <br>
 
- <img src="2gr.jpg" alt="">
 
 ---
 
 <strong>Німецька</strong> <br>
 
+A9, A11(розписати по 3-м реченням слова з таблички), A12 (на пам'ять)
  <img src="2n.jpg" alt="">
+ <img src="2n2.jpg" alt="">
 
 ---
 
@@ -25,9 +26,7 @@
 Розібрати голосну (зі слова яке вам давали) по цьому <a href="http://krnu.org/mod/resource/view.php?id=25308">прикладу<a/> <br>
 
 Пройти <a href="http://krnu.org/mod/quiz/view.php?id=506">тест</a> <br>
-<a href="https://drive.google.com/drive/mobile/folders/1wS6gswOli-StjoNAvlZ7RwPoZV7mU7x8">Аудіо</a> до завдань CD1/2.mp3 15:10 та 17:10
+<a href="https://drive.google.com/drive/mobile/folders/1wS6gswOli-StjoNAvlZ7RwPoZV7mU7x8">Аудіо</a> до завдань
 
 <img src="2fn.jpg" alt="">
 <img src="2fn2.jpg" alt="">
-<img src="2fn3.jpg" alt="">
-<img src="2fn4.jpg" alt="">
