@@ -18,6 +18,8 @@
  <summary><strong>Спільне</strong></summary>
  <br> <strong>ОТМК</strong> <br>
 
+Написати доповідь або зробити презентацію про вид дискурсу <br> <br>
+
 Пройти курс на <a href="https://prometheus.org.ua/prometheus-free/resisting-media-manipulation/">прометеус</a> та надіслати сертифікат на пошту: tat.chrdileli@gmail.com <br> <br>
 
  <strong>Література</strong> <br>
