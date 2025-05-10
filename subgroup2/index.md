@@ -25,7 +25,7 @@
 
 <strong>Граматика</strong> <br>
 
-Закріпити знання з <a href="">nouns</a>
+Закріпити знання з <a href="http://krnu.org/mod/resource/view.php?id=30138">nouns</a>
 
 ---
 
